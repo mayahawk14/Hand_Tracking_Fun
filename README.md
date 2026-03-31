@@ -7,5 +7,6 @@ THIS one is where I was able to calculate the distance between two hand landmark
 
 ---
 ### Notes
-If you want to clone or use any of these files to demo or play around with, I highly suggest including the hand_landmarker.task file in the same project folder for proper execution. I had SO much trouble getting any of my files to work until I finally included that and everything resolved itself!
-Additionally, you'll need to install mediapipe and opencv-python to your environment thru the terminal.
+If you want to clone or use from any of these files to demo or play around with, you'll need to install mediapipe and opencv-python to your environment thru the terminal.
+
+Additionally, I highly suggest including the hand_landmarker.task file in the same project folder for proper execution. I had SO much trouble getting any of my files to work until I finally included that and everything resolved itself!
