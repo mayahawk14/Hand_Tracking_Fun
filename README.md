@@ -4,3 +4,5 @@ Fun interactive projects involving mediapipe hand tracking!
 This file is just a baseline I found and played around with to get to know the basics and hand landmarks of mediapipe/tracking. Had SO MUCH TROUBLE getting the mediapipe versions working but it was soo worth it cause it looks sick.
 ## Index-Thumb Distance
 THIS one is where I was able to calculate the distance between two hand landmarks and display it on the screen. For sure the main function I'd use to make fun interactives. For this one, I just made it so that the size of the finger dots grew as the distance between your fingers gets larger.
+# Notes
+If you want to clone or use any of these files to demo or play around with, I highly suggest including the hand_landmarker.task file in the same project folder for proper execution. I had SO much trouble getting any of my files to work until I finally included that and everything resolved itself!
