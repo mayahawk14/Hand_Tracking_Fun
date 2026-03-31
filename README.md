@@ -1,15 +1,12 @@
 # Hand_Tracking_Fun
 Fun interactive projects involving mediapipe hand tracking!
 ## Hand.py
-This file is just a baseline I found and played around with to get to know the basics and hand landmarks of mediapipe/tracking. Had SO MUCH TROUBLE getting the mediapipe versions working but it was soo worth it cause it looks sick.
-![Uploading Entire Screen - Screencastify - March 31, 2026 5_37 PM (1).gif…]()
-
+This file is just a baseline I found and played around with to get to know the basics and hand landmarks of mediapipe/tracking. Had SO MUCH TROUBLE getting the mediapipe versions working but it was soo worth it cause it looks sick.<br>
+![Entire Screen - Screencastify - March 31, 2026 5_37 PM (1)](https://github.com/user-attachments/assets/4b6c98d8-4e7f-4e48-ba8a-0a092632bc6b)
 
 ## Index-Thumb Distance
 THIS one is where I was able to calculate the distance between two hand landmarks and display it on the screen. For sure the main function I'd use to make fun interactives. For this one, I just made it so that the size of the finger dots grew as the distance between your fingers gets larger.<br>
 ![Entire Screen - Screencastify - March 31, 2026 5_26 PM (1)](https://github.com/user-attachments/assets/f73d18b6-23b8-4c9e-a1a3-c40257e4beee)
-
-
 
 
 ---
